@@ -1,10 +1,7 @@
 # Curriculum-Based-Reinforcement-Learning-for-Super-Mario-Bros.
-# Report
 
-**Final Project Report for CS 175**
+**Capstone Project Title**: Curriculum-Based Reinforcement Learning for Super Mario Bros.  
 
-**Project Title**: Curriculum-Based Reinforcement Learning for Super Mario Bros.  
-**Project Number**: 12
 
 Student Name(s)  
 Yoav Feigenbaum, 42336836, yfeigenb@uci.edu   
